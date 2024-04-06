@@ -29,5 +29,6 @@
 ## 😎 About site
 Tree Menu is a simple representation of menus hierarchy.
 ![image](https://github.com/Nerogen/jenkins_pipline_for_kube/assets/72101790/1115b8b0-165a-4478-9cc1-f8ae28bbff4e)
+
 You can modify hierarchy with Django admin, pass and login for super (admin80lvl, admin80lvl) or create new.
 ![image](https://github.com/Nerogen/jenkins_pipline_for_kube/assets/72101790/f0da978a-33c2-424f-b3ce-45260bffe791)
